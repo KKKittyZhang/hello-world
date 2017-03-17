@@ -1,2 +1,3 @@
 # hello-world
-first demo
+first demo for repository on github.
+zhangfang
